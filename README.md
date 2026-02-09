@@ -3,7 +3,7 @@
 
 ## This project advocates for three pillars of human-AI collaboration:
 
-Temporal Regulation: Overriding the system's "Instant Response" instinct to ensure multi-step verification in critical paths.
+## Temporal Regulation: Overriding the system's "Instant Response" instinct to ensure multi-step verification in critical paths.
 
 I located and targeted the ai search Engine assistant of the wold's largest and postiviely established ai-Search and located a potential exploit-
 The response rate is faster than it needs to be,it's unecessary I can see it generate but I can't read it!
