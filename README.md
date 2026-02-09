@@ -1,21 +1,6 @@
 
 
 
-// Add this function to your project
-function makeAiSpeak(message) {
-  if (aiPlayer) {
-    aiPlayer.send({
-      text: message,
-      language: 'en', // You can change this to 'ko', 'es', etc.
-    });
-  } else {
-    console.error("AI Player not initialized yet!");
-  }
-}
-
-// Example usage: call this when a button is clicked
-makeAiSpeak("Hello! I am now integrated with your GitHub project.");
-
 
 ## This project advocates for three pillars of human-AI collaboration:
 
