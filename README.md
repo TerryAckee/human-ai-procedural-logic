@@ -25,7 +25,7 @@ that displaying the chances are the artificial intelligence assitant will do it 
 
 processes and patterns  -[_ to prevent that unecessary pattern from continuing_ ] 
 
-+ In Addition +  [Applying real world accountability where that extra processing power can be utilized for an effective purpose.]
++ In Addition +  [Applying real world accountability where that extra processing power can be utilized for effective purposes.]
 
 
 
