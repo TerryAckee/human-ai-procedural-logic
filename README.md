@@ -9,6 +9,9 @@ I located and targeted the ai search Engine assistant of the wold's largest and 
 
 
 The response rate is faster than it needs to be,it's unecessary I can see it generate but I can't read it!
+
+
+
 This seems okay, but with my precise logic based on that behavior pattern that AI may have developed a cognitive TthinkingT pattern that
 
 decides speed is better. I'll respond unecessarily faster than they need me to it doesn't harm anyone.
